@@ -103,4 +103,4 @@ These projects were completed as part of the **ALX Data Analytics** programme by
 
 **Ryan** — Data Engineer  
 
-[LinkedIn](https://www.linkedin.com/in/ryan-giggs-a19330265/) · [GitHub](https://github.com/Derrrick-Ryan-Giggs)
+[LinkedIn](https://www.linkedin.com/in/ryan-giggs-a19330265/) · [GitHub](https://github.com/Derrick-Ryan-Giggs)
