@@ -1,0 +1,195 @@
+================================================================================
+WATER ACCESS DATA ANALYSIS - INSIGHTS REPORT
+================================================================================
+
+Generated: 2026-02-08 16:51:06
+Data Period: 2015 - 2020
+Number of Countries: 231
+Number of Regions: 7
+Total Records: 462
+
+
+1. GLOBAL OVERVIEW
+--------------------------------------------------------------------------------
+
+Latest Year (2020) Statistics:
+  Average National Access:          89.87%
+  Average Rural Access:             81.33%
+  Average Urban Access:             94.69%
+  Total Unserved Population:        762.8 million
+  Rural-Urban Gap:                  13.36%
+
+Progress from 2015 to 2020:
+  National Access Improvement:      +1.24 percentage points
+  Rural Access Improvement:         +2.74 percentage points
+  Urban Access Improvement:         +0.90 percentage points
+  Reduction in Unserved Population: 101.1 million
+
+
+2. REGIONAL INSIGHTS
+--------------------------------------------------------------------------------
+
+1. North America
+   Countries:              5
+   Avg National Access:    98.08%
+   Avg Rural Access:       99.58%
+   Avg Urban Access:       99.77%
+   Rural-Urban Gap:        +0.15%
+   Unserved Population:    0.68 million
+
+2. Europe & Central Asia
+   Countries:              63
+   Avg National Access:    97.85%
+   Avg Rural Access:       96.46%
+   Avg Urban Access:       98.57%
+   Rural-Urban Gap:        +1.99%
+   Unserved Population:    27.67 million
+
+3. Latin America & Caribbean
+   Countries:              36
+   Avg National Access:    96.89%
+   Avg Rural Access:       90.23%
+   Avg Urban Access:       98.97%
+   Rural-Urban Gap:        +8.61%
+   Unserved Population:    12.99 million
+
+4. East Asia & Pacific
+   Countries:              38
+   Avg National Access:    93.08%
+   Avg Rural Access:       85.14%
+   Avg Urban Access:       96.72%
+   Rural-Urban Gap:        +12.15%
+   Unserved Population:    131.20 million
+
+5. South Asia
+   Countries:              11
+   Avg National Access:    92.84%
+   Avg Rural Access:       90.37%
+   Avg Urban Access:       96.85%
+   Rural-Urban Gap:        +6.48%
+   Unserved Population:    180.58 million
+
+6. Middle East & North Africa
+   Countries:              10
+   Avg National Access:    92.07%
+   Avg Rural Access:       85.05%
+   Avg Urban Access:       94.53%
+   Rural-Urban Gap:        +9.48%
+   Unserved Population:    26.63 million
+
+7. Sub-Saharan Africa
+   Countries:              50
+   Avg National Access:    70.70%
+   Avg Rural Access:       54.79%
+   Avg Urban Access:       85.68%
+   Rural-Urban Gap:        +30.89%
+   Unserved Population:    383.08 million
+
+
+3. RURAL-URBAN DIVIDE
+--------------------------------------------------------------------------------
+Rural-Urban Gap Statistics (2020):
+  Mean Gap:               +13.16% (positive = urban advantage)
+  Median Gap:             +6.17%
+  Standard Deviation:     15.39%
+  Maximum Gap:            +52.52% (largest urban advantage)
+  Minimum Gap:            -8.72% (largest rural advantage)
+
+Top 10 Countries with Largest Rural Disadvantage:
+   1. Ukraine                        (Europe & Central Asia    )
+      Gap:   8.72% | Rural: 100.00% | Urban:  91.28%
+   2. Marshall Islands               (East Asia & Pacific      )
+      Gap:   7.53% | Rural:  94.43% | Urban:  86.90%
+   3. Belarus                        (Europe & Central Asia    )
+      Gap:   2.55% | Rural:  98.56% | Urban:  96.01%
+   4. Bosnia and Herzegovina         (Europe & Central Asia    )
+      Gap:   2.49% | Rural:  97.33% | Urban:  94.85%
+   5. Ireland                        (Europe & Central Asia    )
+      Gap:   1.16% | Rural:  98.13% | Urban:  96.98%
+   6. West Bank and Gaza Strip       (Europe & Central Asia    )
+      Gap:   1.09% | Rural:  98.72% | Urban:  97.63%
+   7. Serbia                         (Europe & Central Asia    )
+      Gap:   0.97% | Rural:  95.84% | Urban:  94.87%
+   8. Maldives                       (South Asia               )
+      Gap:   0.92% | Rural:  99.92% | Urban:  99.00%
+   9. Nepal                          (South Asia               )
+      Gap:   0.63% | Rural:  90.20% | Urban:  89.58%
+  10. Bangladesh                     (South Asia               )
+      Gap:   0.48% | Rural:  97.88% | Urban:  97.40%
+
+
+4. COUNTRIES REQUIRING ATTENTION
+--------------------------------------------------------------------------------
+Countries with <75% National Access: 36
+
+Bottom 15 Countries by National Access:
+   1. Central African Republic       (Sub-Saharan Africa       ):  37.20%
+      Unserved:   3.03M | Rural:  28.11% | Urban:  49.66%
+   2. South Sudan                    (Sub-Saharan Africa       ):  40.95%
+      Unserved:   6.61M | Rural:  33.59% | Urban:  70.02%
+   3. Papua New Guinea               (East Asia & Pacific      ):  45.34%
+      Unserved:   4.89M | Rural:  39.07% | Urban:  86.08%
+   4. Democratic Republic of the Congo (Sub-Saharan Africa       ):  45.95%
+      Unserved:  48.41M | Rural:  21.98% | Urban:  74.50%
+   5. Chad                           (Sub-Saharan Africa       ):  46.19%
+      Unserved:   8.84M | Rural:  37.58% | Urban:  74.19%
+   6. Niger                          (Sub-Saharan Africa       ):  46.91%
+      Unserved:  12.85M | Rural:  39.15% | Urban:  85.81%
+   7. Burkina Faso                   (Sub-Saharan Africa       ):  47.21%
+      Unserved:  11.03M | Rural:  32.72% | Urban:  80.08%
+   8. Ethiopia                       (Sub-Saharan Africa       ):  49.62%
+      Unserved:  57.92M | Rural:  40.03% | Urban:  84.21%
+   9. Madagascar                     (Sub-Saharan Africa       ):  53.39%
+      Unserved:  12.91M | Rural:  36.41% | Urban:  80.47%
+  10. Uganda                         (Sub-Saharan Africa       ):  55.86%
+      Unserved:  20.19M | Rural:  48.23% | Urban:  78.78%
+  11. Somalia                        (Sub-Saharan Africa       ):  56.48%
+      Unserved:   6.92M | Rural:  37.08% | Urban:  79.12%
+  12. Angola                         (Sub-Saharan Africa       ):  57.17%
+      Unserved:  14.08M | Rural:  27.81% | Urban:  71.74%
+  13. Guinea-Bissau                  (Sub-Saharan Africa       ):  59.02%
+      Unserved:   0.81M | Rural:  49.83% | Urban:  70.61%
+  14. Rwanda                         (Sub-Saharan Africa       ):  60.41%
+      Unserved:   5.13M | Rural:  55.64% | Urban:  83.02%
+  15. Sudan                          (Middle East & North Africa):  60.45%
+      Unserved:  17.34M | Rural:  53.20% | Urban:  73.76%
+
+
+5. STATISTICAL FINDINGS
+--------------------------------------------------------------------------------
+ANOVA Test Results:
+  F-statistic:            87.8042
+  P-value:                0.000000
+  Interpretation:         Regional differences are statistically significant (p < 0.05)
+
+
+Key Correlations:
+  Rural vs Urban Access:              r = 0.842
+  Urban % vs National Access:         r = 0.120
+  Population vs National Access:      r = -0.003
+
+
+6. KEY RECOMMENDATIONS
+--------------------------------------------------------------------------------
+1. PRIORITY REGIONS:
+   1. Sub-Saharan Africa (70.7% access, 383.1M unserved)
+   2. Middle East & North Africa (92.1% access, 26.6M unserved)
+   3. South Asia (92.8% access, 180.6M unserved)
+
+2. RURAL DEVELOPMENT:
+   - Average rural-urban gap is 13.2%
+   - Focus on countries with gaps >15%
+   - Prioritize rural infrastructure in lagging regions
+
+3. POPULATION IMPACT:
+   - 762.8 million people still lack basic water access
+   - Most concentrated in Sub-Saharan Africa (383.1M)
+
+4. PROGRESS MONITORING:
+   - Track SDG 6 progress toward universal access by 2030
+   - Current trajectory: 0.25% improvement per year
+   - Need to accelerate in low-performing countries
+
+================================================================================
+END OF REPORT
+================================================================================

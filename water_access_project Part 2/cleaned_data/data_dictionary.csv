@@ -1,0 +1,32 @@
+Column_Name,Data_Type,Non_Null_Count,Description
+name,object,462,Country name
+year,int64,462,Year of observation
+pop_n,float64,460,National population (thousands)
+pop_u,float64,462,Urban population (thousands)
+wat_bas_n,float64,459,National % with at least basic water
+wat_lim_n,float64,459,National % with limited water
+wat_unimp_n,float64,459,National % with unimproved water
+wat_sur_n,float64,444,National % using surface water
+wat_bas_r,float64,337,Rural % with at least basic water
+wat_lim_r,float64,337,Rural % with limited water
+wat_unimp_r,float64,337,Rural % with unimproved water
+wat_sur_r,float64,328,Rural % using surface water
+wat_bas_u,float64,362,Urban % with at least basic water
+wat_lim_u,float64,362,Urban % with limited water
+wat_unimp_u,float64,362,Urban % with unimproved water
+wat_sur_u,float64,357,Urban % using surface water
+region,object,462,Geographic region
+pop_r,float64,460,Rural population (thousands)
+pop_r_pct,float64,460,Rural population percentage
+pop_u_pct,float64,460,Urban population percentage
+wat_bas_n_calc,float64,331,Calculated national basic water access
+pop_without_basic_water,float64,457,National pop without basic water (thousands)
+pop_r_without_basic_water,float64,335,Rural pop without basic water (thousands)
+pop_u_without_basic_water,float64,362,Urban pop without basic water (thousands)
+access_category_national,object,462,National access category
+access_category_rural,object,462,Rural access category
+access_category_urban,object,462,Urban access category
+rural_urban_gap,float64,333,Urban - Rural access gap (%)
+has_significant_gap,bool,462,Boolean: gap > 10%
+wat_bas_n_prev_year,float64,230,Previous year national access
+yoy_improvement,float64,229,Year-over-year improvement (%)

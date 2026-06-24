@@ -1,0 +1,24 @@
+year,region,avg_national_access,avg_rural_access,avg_urban_access,total_unserved_pop,num_countries
+2015,East Asia & Pacific,91.67,83.26,95.55,183309.84,40
+2015,Europe & Central Asia,97.23,95.42,98.33,30786.98,64
+2015,Latin America & Caribbean,96.19,87.09,98.34,21140.67,48
+2015,Middle East & North Africa,90.34,81.36,93.91,29342.27,10
+2015,North America,98.0,98.87,99.76,2052.22,5
+2015,South Asia,90.44,87.57,95.52,211215.06,11
+2015,Sub-Saharan Africa,67.65,51.18,84.32,386099.32,53
+2016,Latin America & Caribbean,97.0,,96.12,4.65,2
+2016,Sub-Saharan Africa,51.85,27.8,89.74,1625.82,1
+2017,Europe & Central Asia,94.15,,,9.87,1
+2017,Latin America & Caribbean,96.96,,96.4,15.07,7
+2017,Sub-Saharan Africa,64.67,30.78,78.08,445.92,1
+2018,Latin America & Caribbean,94.73,,,7.49,2
+2019,East Asia & Pacific,92.58,,,16.39,2
+2019,Latin America & Caribbean,98.89,,,4.34,1
+2019,Sub-Saharan Africa,80.21,76.91,88.22,168.39,1
+2020,East Asia & Pacific,93.08,85.14,96.72,131200.65,38
+2020,Europe & Central Asia,97.85,96.46,98.57,27668.22,63
+2020,Latin America & Caribbean,96.89,90.23,98.97,12990.45,36
+2020,Middle East & North Africa,92.07,85.05,94.53,26633.55,10
+2020,North America,98.08,99.58,99.77,679.8,5
+2020,South Asia,92.84,90.37,96.85,180580.78,11
+2020,Sub-Saharan Africa,70.7,54.79,85.68,383076.4,50
